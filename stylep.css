@@ -1,0 +1,356 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.icon {
+    height: 50px;
+    width: auto;
+    background-color: rgb(221, 81, 233);
+    display: flex;
+
+}
+
+.icon1 {
+    width: 150px;
+    margin-left: 30px;
+    align-items: center;
+    justify-content: center;
+    justify-content: space-between;
+    color: white;
+    margin-top: 20px;
+
+
+
+
+}
+
+.fa-brands {
+    margin-left: 5px;
+}
+
+.telephone {
+    margin-left: 300px;
+    display: flex;
+    width: 300px;
+    height: auto;
+    color: white;
+    font-size: small;
+    align-items: center;
+    justify-content: center;
+}
+
+.fa-envelope {
+    margin-left: 50px;
+    border-left: 0.5px solid white;
+    display: flex;
+    text-transform: small;
+    justify-content: flex-end;
+
+}
+
+
+.req {
+    font-size: 15px;
+    color: white;
+    font-weight: 800;
+    border: 3px solid white;
+    border-radius: 13px;
+    width: 200px;
+    height: 30px;
+    margin-left: 330px;
+    margin-top: 10px;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    justify-items: center;
+}
+
+p {
+
+    text-align: center;
+    margin-top: 10px;
+    margin-bottom: 1rem;
+    margin-left: 1rem;
+    margin-right: 1rem;
+}
+
+.header2 {
+    height: 60px;
+    background-color: #fffffff4;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+
+
+}
+
+.fa-magnifying-glass {
+    background-color: azure;
+    color: black;
+    margin-top: 15px;
+    margin-bottom: 10px;
+}
+
+.search-input {
+    height: 30px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    border: white;
+    margin-left: 30px;
+}
+
+a {
+    margin-left: 100px;
+    color: black;
+    text-align: center;
+    font-weight: 600;
+    justify-content: space-evenly;
+    margin-top: 15px;
+    border: 2px solid white;
+
+}
+
+a:hover {
+    border-color: rgb(170, 23, 200);
+    background-color: rgb(170, 23, 200);
+
+}
+
+.border:hover {
+
+    border-color: rgb(170, 23, 200);
+    background-color: rgb(170, 23, 200);
+}
+
+.border {
+    border-color: coral;
+    border: 2px solid black;
+}
+
+.h2 {
+    height: 500px;
+    border-top: 1.5px solid purple;
+    border-bottom: 1.5px solid purple;
+    display: flex;
+}
+
+.h2:hover {
+    border: 5px solid;
+    border-color: rgb(175, 36, 191);
+}
+
+.img {
+    background-image: url("h2.jpg");
+    background-size: cover;
+    height: 500px;
+    width: 100%;
+    background-size: 100%;
+
+}
+
+p {
+    font-size: 100px;
+    color: rgb(240, 80, 255);
+    justify-content: center;
+
+}
+
+p2 {
+    font-size: 50px;
+    color: rgb(240, 80, 255);
+
+    margin-left: 600px;
+}
+
+p3 {
+    font-size: 50px;
+    color: rgb(240, 80, 255);
+
+    margin-left: 600px;
+}
+
+p4 {
+    font-size: 50px;
+    color: rgb(240, 80, 255);
+
+    margin-left: 640px;
+}
+
+p5 {
+    font-size: 50px;
+    margin-left: 550px;
+    color: rgb(240, 80, 255);
+}
+.launch{
+    height: 150px;
+    background-color:rgb(221, 81, 233) ;
+    justify-content: space-evenly;
+    justify-content: center;
+    display: flex;
+    align-items: center;
+    color: white;
+    
+}
+.grow{
+    display: inline;
+    margin-right: 120px;
+    justify-content: space-evenly;
+
+}
+.support{
+    display: inline;
+    margin-right: 120px;
+
+}
+.time{
+    display: inline;
+    margin-right: 120px;
+
+}
+.h3{
+    height: 450px;
+    display: flex;
+    background-color: azure;
+}
+.para{
+    height: 300px;
+    width:40%;
+    justify-content: center;
+    text-align: center;
+    color: black;
+    margin-top: 50px;
+    margin-bottom: 20px;
+    margin-left: 100px;
+    border: 4px solid rgb(217, 62, 217);
+    border-radius: 3px;
+    border-right: 35px solid rgb(217,62,217);
+    border-bottom: 35px solid rgb(217,62,217);
+    
+
+}
+h1{
+    font-size: 40px;
+    margin-left:20px ;
+    color: black;
+    text-align: center;
+}
+h4{
+    margin-top: 10px;
+    font-size: 25px;
+    color: black;
+    text-align: center;
+}
+p9{
+    margin-top: 200px;
+    margin-left:100px;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+   font-size: 20px;
+    text-decoration: none;
+}
+.img2{
+    height: 300px;
+    width: 500px;
+    display: flex;
+    margin-top: 50px;
+    background-image: url(box7_image.jpg);
+    margin-left: 150px;
+    background-size: cover;
+    border-right: 35px solid rgb(226, 52, 226);
+    border-bottom: 35px solid rgb(226, 52, 226);
+    border-radius: 4px   ;
+    border-left: 5px solid rgb(226, 52, 226);
+    border-top: 5px solid rgb(226, 52, 226);
+   
+}
+.f1{
+    display: flex;
+    height: 350px;
+    background-color: antiquewhite;
+}
+.box{
+    
+    height: 350px;
+    width: 100%;
+    background-color: white;
+    padding: 20px 0px 15px;
+    margin-top: 15px;justify-content: space-evenly;
+
+}
+.boximage1{
+    
+    background-image: url("imagep1.jpg");
+    height: 300px;
+    background-size: cover;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    margin-left: 20px;
+    margin-right: 20px;
+    
+}
+.boximage2{
+    background-image: url("imagep2.jpg");
+    height: 300px;
+    background-size: cover;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    margin-left: 20px;
+    margin-right: 20px;margin-left: 20px;
+    
+}
+.boximage3{
+    background-image: url("imagep3.jpg");
+    height: 300px;
+    background-size: cover;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+.text2{
+    height:50px
+    
+
+
+}
+.fa-bullhorn{
+    margin-left: 300px;
+    border: 6px solid rgb(226, 52, 226);
+    height:30px ;
+    border-radius: 10px;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    margin-top: 0px
+}
+.fa-display{
+    margin-left: 300px;
+    border: 6px solid rgb(226, 52, 226);
+    height:30px ;
+    border-radius: 10px;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    margin-top: 0px
+}
+.fa-money-check-dollar{
+    margin-left: 300px;
+    border: 6px solid rgb(226, 52, 226);
+    height:30px ;
+    border-radius: 10px;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    margin-top: 0px
+}
+.bottom{
+    height: 60px;
+    text-align: center;
+    justify-content: center;
+    color: white;
+    background-color: rgb(175, 36, 191);
+    margin-top: 5px;
+    
+}
